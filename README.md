@@ -1,2 +1,10 @@
 # Bulls-and-Cows
-This repository contains a Python implementation of the Bulls and Cows game — a classic code-breaking logic puzzle. The player tries to guess a secret number based on feedback ("Bulls" and "Cows") after each attempt.
+A simple command-line implementation of the classic logic game **Bulls and Cows**.
+
+The objective of the game is to guess a secret number.  
+After each guess, the program will tell you how many **Bulls** and **Cows** you scored:
+
+**Bull** = correct digit in the correct position
+**Cow** = correct digit in the wrong position  
+
+
